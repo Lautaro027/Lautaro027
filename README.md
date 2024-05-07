@@ -4,7 +4,7 @@
 - 💞️ estoy viendo en colaborar en algun proyecto sobre video juegos o parecido, ya sea diseño o lo que haga falta 
 - ⚡ dato curioso: me gustan los deportes , animales, dormir y jugar a los video juegos
 
-
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 > **Be Drop Dead.**
 
   <p align="center">
