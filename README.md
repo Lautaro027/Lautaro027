@@ -9,7 +9,14 @@
 
 
 <img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
+<br>
+<table>
+    <tr>
+        <td>
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+           </td> 
+</tr>
+</table>
 ---
 <br>
 <p align="center">
