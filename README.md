@@ -1,19 +1,52 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Buenas!+soy+Lautaro+Pereyra+Magra+👋)](https://git.io/typing-svg)
+<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Un+gusto+conocerte+👋)](https://git.io/typing-svg)
+
 <ul>
-    <li> 👋 Hola, Soy @Lautaro027 </li>
     <li> 👀 Estoy interesado en hacer video juegos </li>
     <li> 🌱 Estoy aprendiendo a programar </li>
-    <li> 💞️ estoy viendo en colaborar en algun proyecto sobre video juegos o parecido, ya sea diseño o lo que haga falta  </li>
+    <li> 💞️ estoy viendo en colaborar en algun proyecto sobre video juegos o parecido, ya sea diseño o lo que haga falta. </li>
     <li> ⚡ dato curioso: me gustan los deportes , animales, dormir y jugar a los video juegos </li>
+    <li>🙋‍♂️ Gracias por visitar mi perfil de GitHub! </li>
 </ul>
 
 
 <img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 <br>
+## Contactame
+
+<br>
+<div align="center">
+  <a href="mailto:lauti.pereyra27@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="lautaro-email"/>
+  </a>
+</div>
 <table>
     <tr>
         <td>
             <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+           </td> 
+        <td>
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
            </td> 
 </tr>
 </table>
