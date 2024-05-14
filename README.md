@@ -14,7 +14,7 @@
 
 <img align="center" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 <br>
-## Contactame
+Contactame
 
 <br>
 <div align="center">
@@ -70,21 +70,19 @@
 <img aling ="right" src="https://github-readme-stats.vercel.app/api?username=Lautaro027&theme=blue-green"/>
 </td>
 <td width="50%" align="center">
-
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Lautaro027&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
-
   </td>
+  <tr>
   <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lautaro027&theme=blue-green"/>
-     
-</td>
-
-</tr>
-</table>
-
-  <td width="50%" align="center">
+     </td>
+       <td width="50%" align="center">
      <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lautaro027&theme=dark&hide_border=false" /> 
     </td>
+  </tr>
+</table>
+
+ 
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
